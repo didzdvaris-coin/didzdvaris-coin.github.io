@@ -1,0 +1,73 @@
+body{
+    background-color: dimgray;
+    font-family: 'Courier New', Courier, monospace;
+}
+.asparagus{
+    background-image: url(./asparagus.jpg);
+}
+nav{
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid rgb(97, 96, 72);
+    background-color: rgb(182, 182, 182);
+    color: rgb(63, 58, 48);
+}
+header{
+    margin: auto;
+    width: 50%;
+    border: 3px solid orange;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(204, 172, 111);
+    color: rgb(65, 65, 65);
+    
+}
+.description{
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    border: 3px solid rgb(51, 90, 0);
+    background-color: rgb(62, 109, 128);
+    color: wheat; 
+}
+.gif{
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+.download{
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(152, 172, 107);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(173, 166, 152);
+}
+.entrance{
+    color: wheat; 
+    text-decoration: none;
+}
+.s{
+    background-color: rgb(56, 47, 47);
+    color: lightsteelblue;
+}
+.links{
+    color: rgb(56, 47, 47);
+    margin: 10px;
+}
+.a_links{
+    color: chartreuse;
+    margin: 10px;
+}
+.list{
+  text-align: center;
+  font-size: large;
+}
+.counters{
+  text-align: left;
+  display: inline-block;
+}
