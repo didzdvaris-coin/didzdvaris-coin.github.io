@@ -32,6 +32,10 @@ header{
     background-color: rgb(62, 109, 128);
     color: wheat; 
 }
+.links{
+    color: wheat;
+    
+}
 .gif{
     margin: auto;
     width: 50%;
